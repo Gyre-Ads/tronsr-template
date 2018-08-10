@@ -1,1 +1,7 @@
-Describe your server configuration
+- Bare metal server
+- Location: Beijing, China
+- CPU: Intel Xeon processor, E5-2670, 3.3 Ghz
+- Core: 32 cores
+- RAM: 192 GB
+- SSD: 3 TB (100.000 iops)
+- Network: 40 Gbps
